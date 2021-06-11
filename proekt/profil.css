@@ -1,0 +1,23 @@
+body{
+	background:#006400;
+}
+.profil{
+	padding:100px;
+}
+.profil2{
+	margin-left:100px;
+}
+.foto{
+	border-radius:200px; 
+	border:2px black solid; 
+	width:200px; 
+	height:200px; 
+	overflow:hidden; 
+	text-align:center; 
+}
+#block{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	border-radius: 50px;
+}
